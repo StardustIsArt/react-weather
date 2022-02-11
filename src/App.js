@@ -1,4 +1,3 @@
-
 import "./App.css";
 function App() {
   return (
@@ -9,6 +8,7 @@ function App() {
         <a
           href="https://github.com/StardustIsArt/weather-react"
           target="_blank"
+          rel="noreferrer"
         >
           open-sourced on GitHub
         </a>
